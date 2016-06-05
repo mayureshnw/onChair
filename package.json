@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Mnw2212/onChair#readme",
   "dependencies": {
+    "express": "^4.13.4",
     "johnny-five": "^0.9.52"
   }
 }
